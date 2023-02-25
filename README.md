@@ -1,10 +1,10 @@
 ### Hi there 👋
-[![famima65536's GitHub stats](https://github-readme-stats.vercel.app/api?username=famima65536)](https://github.com/anuraghazra/github-readme-stats)
+[![yuyaprgrm's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyprgrm)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=famima65536&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyaprgrm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**famima65536/famima65536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yuyaprgrm/yuyaprgrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
